@@ -1,4 +1,4 @@
-# ☕ Café Aurora — Dashboard ETL
+Dashboard ETL
 
 ## Cómo ejecutar en VS Code (3 pasos)
 
