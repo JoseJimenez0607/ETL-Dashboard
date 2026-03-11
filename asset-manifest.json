@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.914430e1.js",
-    "index.html": "/index.html",
-    "main.914430e1.js.map": "/static/js/main.914430e1.js.map"
+    "main.js": "/ETL-Dashboard/static/js/main.914430e1.js",
+    "index.html": "/ETL-Dashboard/index.html",
+    "main.914430e1.js.map": "/ETL-Dashboard/static/js/main.914430e1.js.map"
   },
   "entrypoints": [
     "static/js/main.914430e1.js"
